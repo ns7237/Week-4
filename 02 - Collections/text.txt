@@ -1,0 +1,3 @@
+Hello world, hello Java!
+This is a test. Hello again, Java world.
+Java programming is fun, and world programming is interesting.
